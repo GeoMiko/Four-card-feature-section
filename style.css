@@ -122,6 +122,10 @@ body {
   width: 100%;
 }
 
+.karma {
+  margin-top: 30px;
+}
+
 .icon {
   align-self: flex-end;
   margin-top: 25px;
@@ -153,9 +157,6 @@ body {
     column-gap:30px;
   }
 
-  .karma {
-    margin-top: 30px;
-  }
   
   
 }
